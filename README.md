@@ -41,6 +41,7 @@ List of technologies used in the project:
  
 ## Running the project
 
+
 1. Clone the repository:
 
 ```bash
@@ -49,13 +50,14 @@ $ cd API-REST
 ```
 
 
-2. Change the path at the Connection String in the appsettings.Development.json file to the path of your local folder
+2. Change the path at the Connection String in the appsettings.Development.json file to the path of your local folder:
 
 ```
  "ConnectionStrings": {
     "LabSchoolContext" : "Data Source=/yourlocalpath/[alexandre]labschoolbd.db;"
   } 
 ```
+
 
 3. Install the following packages by running the commands:
 
@@ -70,10 +72,12 @@ $ cd API-REST
  dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 ```
 
+
 4. Run the command:
 
 ```
  dotnet run
 ```
+
 
 The API will be available at http://localhost:5127/swagger.
