@@ -19,42 +19,26 @@ List of technologies used in the project:
 - [MVC Pattern](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
 
 ## Abstraction methodology applied for development:
-<ol>
-  <li>Packages installation</li>
-1. Packages installation
-
-2. Base Class declaration
-
-3. Models creation
-
-4. Context creation
-
- 4.1. Dependency injection
-
- 4.2. Connection String configuration
-
-5. Fluent API configuration
-
- 5.1. Initial data insert
-
-6. Migrations perform
-
-7. Data Transfer Objects creation
-
-8. Interfaces creation
-
- 8.1. Repositories creation
-
- 8.2. Controllers creation
-
-9. Fluent Validation configuration
-
- 9.1. Dependency injection
-
-10. Database update
-
-11. Commit
-
+<ul>
+  <li>1. Packages installation</li>
+  <li>2. Base Class declaration</li>
+  <li>3. Models creation</li>
+  <li>4. Context creation</li>
+  <li> 4.1. Dependency injection</li>
+  <li> 4.2. Connection String configuration</li>
+  <li>5. Fluent API configuration</li>
+  <li> 5.1. Initial data insert</li>
+  <li>6. Migrations perform</li>
+  <li>7. Data Transfer Objects creation</li>
+  <li>8. Interfaces creation</li>
+  <li> 8.1. Repositories creation</li>
+  <li> 8.2. Controllers creation</li>
+  <li>9. Fluent Validation configuration</li>
+  <li> 9.1. Dependency injection</li>
+  <li>10. Database update</li>
+  <li>11. Commit</li>
+</ul>
+ 
 ## Running the project
 
 1. Clone the repository:
