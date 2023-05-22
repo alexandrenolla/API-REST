@@ -17,7 +17,7 @@ List of technologies used in the project:
 - [Fluent API](https://learn.microsoft.com/pt-br/ef/ef6/modeling/code-first/fluent/types-and-properties)
 - [Fluent Validation](https://docs.fluentvalidation.net/en/latest/aspnet.html)
 - [MVC Pattern](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
-
+<p align="center">
 ## Abstraction methodology applied for development:
 
 1. Packages installation
@@ -53,7 +53,7 @@ List of technologies used in the project:
 10. Database update
 
 11. Commit
-
+</p>
 ## Running the project
 
 1. Clone the repository:
