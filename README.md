@@ -24,17 +24,17 @@ List of technologies used in the project:
   <li>2. Base Class declaration</li>
   <li>3. Models creation</li>
   <li>4. Context creation</li>
-  <li> 4.1. Dependency injection</li>
-  <li> 4.2. Connection String configuration</li>
+  <li>  4.1. Dependency injection</li>
+  <li>  4.2. Connection String configuration</li>
   <li>5. Fluent API configuration</li>
-  <li> 5.1. Initial data insert</li>
+  <li>  5.1. Initial data insert</li>
   <li>6. Migrations perform</li>
   <li>7. Data Transfer Objects creation</li>
   <li>8. Interfaces creation</li>
-  <li> 8.1. Repositories creation</li>
-  <li> 8.2. Controllers creation</li>
+  <li>  8.1. Repositories creation</li>
+  <li>  8.2. Controllers creation</li>
   <li>9. Fluent Validation configuration</li>
-  <li> 9.1. Dependency injection</li>
+  <li>  9.1. Dependency injection</li>
   <li>10. Database update</li>
   <li>11. Commit</li>
 </ul>
