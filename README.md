@@ -19,7 +19,8 @@ List of technologies used in the project:
 - [MVC Pattern](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
 
 ## Abstraction methodology applied for development:
-
+<ol>
+  <li>Packages installation</li>
 1. Packages installation
 
 2. Base Class declaration
