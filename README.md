@@ -16,6 +16,7 @@ List of technologies used in the project:
 - [EntityFrameworkCore](https://learn.microsoft.com/en-us/ef/)
 - [Fluent API](https://learn.microsoft.com/pt-br/ef/ef6/modeling/code-first/fluent/types-and-properties)
 - [Fluent Validation](https://docs.fluentvalidation.net/en/latest/aspnet.html)
+- [SQLite](https://www.sqlite.org/index.html)
 - [MVC Pattern](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
 
 ## Abstraction methodology applied for development:
