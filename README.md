@@ -2,7 +2,7 @@
 
  ## 💻 Project
 
-API REST for school management.
+REST API for school management.
 
 The project was developed as the final project of the first module of the Professionalizing course in Full Stack development.
 </p>
