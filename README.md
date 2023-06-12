@@ -2,7 +2,8 @@
 
  ## 💻 Project
 
-REST API for school management.
+REST API for school management, with the following tables created by Code First and with SQLite: Students, Teachers, Pedagogues.
+Complete CRUD and MVC Pattern, plus Fluent Validation for field validation.
 
 The project was developed as the final project of the first module of the Professionalizing course in Full Stack development.
 </p>
